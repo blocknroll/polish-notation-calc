@@ -1,6 +1,6 @@
 ## Independent Work
 
-First up let's begin with a challenge. Work on your own to build a simple "Polish Notation" calculator.
+First up let's begin with a challenge. Work on your own to build a simple [Polish Notation](http://en.wikipedia.org/wiki/Polish_notation) calculator.
 
 #### The Rules
 
