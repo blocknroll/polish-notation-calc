@@ -4,10 +4,9 @@ First up let's begin with a challenge. Work on your own to build a simple "Polis
 
 #### The Rules
 
-Don't write tests
-Don't do anything fancy with STDIN/STDOUT
-Don't use any extra gems
-Don't use the built-in * or / methods
+* Don't write tests
+* Don't do anything fancy with STDIN/STDOUT
+* Don't use any extra gems
 
 #### The Expectations
 
